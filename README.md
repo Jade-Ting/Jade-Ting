@@ -1,5 +1,5 @@
 
-<img src="https://i.loli.net/2020/11/14/YCxIGlkgOrUcnDF.gif">
+<img align="left" src="https://i.loli.net/2020/11/14/YCxIGlkgOrUcnDF.gif" width="100">
     <p>Hi there 👋</p>
     <p>Nice to meet you.<p/> 
 
